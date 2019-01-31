@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 60px;
+    border-style: solid;
+    border-width: dotted;
+    border-color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+h2{
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkgreen;
+}
+
+body{
+    background-color: beige;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+img.unouno{
+    border-style:solid;
+    
+}
+img.unodos{
+    border-style:solid;
+    width:100%;
+    height: 10%;
+}
+p.a{
+    text-align: right;
+    color: seagreen
+
+
+}
